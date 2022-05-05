@@ -1,5 +1,5 @@
-from Tiny_URL import main
+from tiny_url import Tiny
 
 url = "https://www.google.com"
-t = main.make_url(url)
+t = Tiny.make_url(url)
 print(t)
