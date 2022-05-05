@@ -4,10 +4,8 @@ def make_url(url):
     """
     make tiny url
     """
-    params = {'original': 'https://example.com'}
-    url = f"https://tinyurl.orraorange.repl.co/api/make_url"
-    r = requests.post(url, params=params)
+    r = requests.post(
+        'https://tiny-url.gq/api/make',
+        {'original':f'{url}'})
     print(r.text)
     return r.text
-
-make_url('AAA')
