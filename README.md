@@ -1,5 +1,5 @@
 # Tiny-URL-Wrapper
-This repository is an API wrapper made in Python for t-ur.site.
+This repository is an API wrapper made in Python for Tiny-URL.
 
 # Usage
 ```python
