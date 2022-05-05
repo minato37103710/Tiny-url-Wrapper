@@ -7,4 +7,5 @@ def make_url(url):
     r = requests.post(
         'https://tiny-url.gq/api/make',
         {'original':f'{url}'})
+    
     return r.text
