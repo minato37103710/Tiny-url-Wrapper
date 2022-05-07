@@ -1,6 +1,6 @@
 import requests
 
-def get_url(t='undefined'):
+def get_original(t='undefined'):
     """
     get tiny url
     """
