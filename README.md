@@ -1,3 +1,4 @@
+[![Downloads](https://pepy.tech/badge/tiny-url)](https://pepy.tech/project/tiny-url)[![Downloads](https://pepy.tech/badge/tiny-url/month)](https://pepy.tech/project/tiny-url)[![Downloads](https://pepy.tech/badge/tiny-url/week)](https://pepy.tech/project/tiny-url)
 # Tiny-URL-Wrapper
 This repository is an API wrapper made in Python for Tiny-URL.
 
